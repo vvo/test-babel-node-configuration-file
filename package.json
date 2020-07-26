@@ -1,0 +1,13 @@
+{
+  "name": "test-babel-node-configuration-file",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Vincent Voyer",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "7.10.5",
+    "@babel/node": "7.10.5",
+    "@babel/preset-env": "7.10.4"
+  }
+}
